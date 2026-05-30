@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import ThemeToggle from "@/components/ui/ThemeToggle";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -40,15 +41,20 @@ export default function Navbar() {
             ))}
 
           </ul>
+<div className="flex items-center gap-4">
 
-          <button
-            onClick={() =>
-              setIsOpen(!isOpen)
-            }
-            className="md:hidden"
-          >
-            ☰
-          </button>
+  <ThemeToggle />
+
+  <button
+    onClick={() =>
+      setIsOpen(!isOpen)
+    }
+    className="md:hidden"
+  >
+    ☰
+  </button>
+
+</div>
 
         </div>
 
