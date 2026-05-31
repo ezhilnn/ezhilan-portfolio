@@ -48,6 +48,22 @@ export default function ProjectCard({
         ))}
 
       </div>
+      <div className="flex gap-4 mt-6">
+
+      {project.githubUrl && (
+        <a
+          href={project.githubUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="px-4 py-2 border rounded-lg"
+        >
+          GitHub
+        </a>
+      )}
+
+    
+
+</div>
 
     </div>
   );
