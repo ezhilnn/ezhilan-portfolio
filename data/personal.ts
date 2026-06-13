@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Ezhilan N",
   title: "Software Engineer I",
   company: "Rocket India",
-  email: "ezhilnaga4732@gmail.com",
+  email: "ezhilan.dev.4@gmail.com",
   phone: "+91 6374432150",
 
   location: "Chennai, India",
