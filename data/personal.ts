@@ -10,7 +10,7 @@ export const personalInfo = {
   tagline:
     "Software Engineer focused on building full-stack, cloud-native, event-driven, interactive, and AI-powered applications that solve real-world problems at scale.",
 
-  linkedin: "https://www.linkedin.com/in/ezhilan-nagarajan-b58933229?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+  linkedin: "https://www.linkedin.com/in/ezhilan-nagarajan",
   github: "https://github.com/ezhilnn",
 
   resume: "/resume.pdf",
