@@ -44,7 +44,24 @@ export const projects: Project[] = [
     ],
     githubUrl : "https://github.com/ezhilnn/Fintrix",
   },
-
+  {
+    title: "Expense Approval Workflow Engine",
+    description:
+      "Multi-stage expense claim workflow enabling employees, managers, and finance teams to manage approvals end-to-end.",
+    techStack: [
+      "Java",
+      "Spring Boot",
+      "SQL"
+    ],
+    features: [
+      "Employee submission",
+      "Manager approval/rejection",
+      "Update/cancel by employee",
+      "Finance approval/rejection",
+      "Audit history tracking"
+    ],
+    githubUrl : "https://github.com/ezhilnn/expense-claim",
+  },
   {
     title: "Covid Vaccination Application",
 
