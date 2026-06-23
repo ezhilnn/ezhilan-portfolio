@@ -30,7 +30,7 @@ export const skillCategories: SkillCategory[] = [
     category: "Cloud & AI",
     skills: [
       "Google Cloud",
-      "Azure"
+      "Azure",
       "Vertex AI",
       "Gemini",
       "Claude",
@@ -48,7 +48,6 @@ export const skillCategories: SkillCategory[] = [
       "Figma",
       "Kafka",
       "Kubernetes",
-      "Playwright",
     ],
   },
 ];
