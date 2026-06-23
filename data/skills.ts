@@ -9,7 +9,9 @@ export const skillCategories: SkillCategory[] = [
       "Python",
       "JavaScript",
       "TypeScript",
+      "Golang"
       "SQL",
+      "NoSQL"
     ],
   },
 
@@ -20,6 +22,7 @@ export const skillCategories: SkillCategory[] = [
       "Spring Boot",
       "React",
       "Angular",
+      "Playwright"
     ],
   },
 
@@ -27,6 +30,7 @@ export const skillCategories: SkillCategory[] = [
     category: "Cloud & AI",
     skills: [
       "Google Cloud",
+      "Azure"
       "Vertex AI",
       "Gemini",
       "Claude",
@@ -39,6 +43,8 @@ export const skillCategories: SkillCategory[] = [
     skills: [
       "Git",
       "VS Code",
+      "Claude Code",
+      "Github Copilot",
       "Figma",
       "Kafka",
       "Kubernetes",
