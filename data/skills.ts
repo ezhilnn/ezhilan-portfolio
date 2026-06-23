@@ -9,7 +9,7 @@ export const skillCategories: SkillCategory[] = [
       "Python",
       "JavaScript",
       "TypeScript",
-      "Golang"
+      "Golang",
       "SQL",
       "NoSQL"
     ],
