@@ -13,5 +13,5 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/ezhilan-nagarajan",
   github: "https://github.com/ezhilnn",
 
-  resume: "/resume.pdf",
+  resume: "/Resume-June-2026.pdf",
 };
